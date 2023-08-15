@@ -1,26 +1,20 @@
 {
-    "name": "spatie/dropbox-api",
+    "name": "giauphan/dropbox-api",
     "description": "A minimal implementation of Dropbox API v2",
     "keywords": [
-        "spatie",
+        "giauphan",
         "dropbox-api",
         "dropbox",
         "api",
         "v2"
     ],
-    "homepage": "https://github.com/spatie/dropbox-api",
+    "homepage": "https://github.com/giauphan/custom-dropbox-api",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alex Vanderbist",
-            "email": "alex.vanderbist@gmail.com",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
+            "name": "Phan Nhut Giau",
+            "email": "giauphan012@gmail.com",
+            "homepage": "https://github.com/giauphan",
             "role": "Developer"
         }
     ],
