@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Dropbox\\": "src"
+            "giauphan\\dropbox-api\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Dropbox\\Test\\": "tests"
+            "giauphan\\dropbox-api\\Test\\": "tests"
         }
     },
     "scripts": {
