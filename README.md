@@ -40,7 +40,7 @@ You can install the package via composer:
 
 ``` bash
 
-composer require giauphan/custom-dropbox-api
+composer require giauphan/dropbox-api
 
 ```
 
